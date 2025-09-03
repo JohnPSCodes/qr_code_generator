@@ -24,3 +24,17 @@ A desktop application built with **Python** and **Tkinter** to easily generate a
 
 ## Project Showcase Gif
 ![qr_app_showcase](project_resources/qr_code_app_showcase_example.gif)
+
+## ▶️ How to Run
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/JohnPSCodes/qr_code_generator.git
+   cd qr_code_generator
+   
+2. Install dependencies:
+   ```
+   pip install -r requirements.txt
+   
+3. Start the application:
+   ```
+   python -m backend.main
