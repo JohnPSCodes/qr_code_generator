@@ -21,3 +21,6 @@ A desktop application built with **Python** and **Tkinter** to easily generate a
 
 ## Project GUI
 ![qr_app](project_resources/qr_code_app_by_johnpscodes.png)
+
+## Project Showcase Gif
+![qr_app_showcase](project_resources/qr_code_app_showcase_example.gif)
